@@ -1,4 +1,4 @@
-Welcome to my first project during my internship! This project is a![Macbook-Air-127 0 0 1 (1)](https://github.com/user-attachments/assets/3737fdf9-5036-4bac-9a2d-3f54bd080a3d)
+[Macbook-Air-127 0 0 1 (1)](https://github.com/user-attachments/assets/3737fdf9-5036-4bac-9a2d-3f54bd080a3d)
 
 Welcome to my first project during my internship! This project is a web application built to [briefly describe the purpose of the project]. It showcases my learning journey and the skills I’ve acquired during my internship.
 
