@@ -1,4 +1,5 @@
-demo/Macbook-Air-127.0.0.1 (1).png
+
+![Macbook-Air-127 0 0 1 (1)](https://github.com/user-attachments/assets/745ddd26-081d-4a06-ab19-ac010f8f52ff)
 
 Welcome to my first project during my internship! This project is a web application built to [briefly describe the purpose of the project]. It showcases my learning journey and the skills I’ve acquired during my internship.
 
